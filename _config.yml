@@ -1,11 +1,11 @@
 # Site settings
 author: Hans Foster
-title: 
+title: Nisticism
 header-img: img/home-bg.png
 email: fosterhans@gmail.com
 copyright_name: Hans Foster
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A Coding Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  Nisticism
