@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "City Scraper CLI Project"
-date:       2019-11-14 23:12:24 +0000
+date:       2019-11-14 18:12:25 -0500
 permalink:  city_scraper_cli_project
 ---
 
